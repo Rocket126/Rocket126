@@ -10,6 +10,7 @@ Actualmente participo en un Bootcamp de FullStack Java en Talento Digital y en o
 - SpringBoot - JWT -Thymeleaf - JPA - REST 
 - PostgreSQL
 - Postman
+- GitHub - Control de versiones
 
 # Habilidades
 Desarrollo......... 
