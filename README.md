@@ -4,7 +4,7 @@
 
 Actualmente participo en un Bootcamp de FullStack Java en Talento Digital y en otro de Azure DevOps de Microsoft. Soy de concepción 8va región y titulado de Ejecución en informática en IP Virginio Gómez de la Sede UdeC. Me apasiona la música, el deporte y la informática entre algunos. Tengo experiencia como técnico en redes en instalación cableado estructurado en establecimientos estatales como establecimientos particulares, y además trabajando, dando soporte en terreno si lo requerían como mantenciones de equipos o levantamientos de requerimientos y cotización para trabajos de cableado.
 
-# Tecnologias y Entornos de programcion
+# Tecnologias y Entornos de programacion
 
 - Java - SQL - Javascript - Html - CSS - Boostrap
 - SpringBoot - JWT -Thymeleaf - JPA - REST -JDBC - JUnit, Mockito
@@ -18,7 +18,7 @@ Desarrollo.........
 
 # Motivaciones / Metas
 
-Seguir aprendiendo del rubro de desarrollo y experimentar con proyectos en java, y crear más adelante una aplicación web que me permita generar ganancias personales y así seguir sumando ventas y experiencias con distintas tecnologías conforme vaya avanzado. también un punto importante que me motiva es cambiar de rubro ya que anteriormente trabajaba como técnico en redes y mi meta es dar el salto a un empleo como desarrollador Back/Front o FullStack si es posible.
+Seguir aprendiendo del rubro de desarrollo y experimentar con proyectos en java, y crear más adelante una aplicación web que me permita generar ganancias personales y así seguir sumando ventas y experiencias con distintas tecnologías conforme vaya avanzado. Un punto importante que me motiva es cambiar de rubro ya que anteriormente trabajaba como técnico en redes y mi meta es dar el salto a un empleo como desarrollador Back/Front o FullStack.
 
 
 # Redes
