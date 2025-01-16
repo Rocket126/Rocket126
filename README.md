@@ -20,8 +20,8 @@ Desarrollo.........
 Seguir aprendiendo del rubro de desarrollo y experimentar con proyectos en java, y crear más adelante una aplicación web que me permita generar ganancias personales y así seguir sumando ventas y experiencias con distintas tecnologías conforme vaya avanzado. también un punto importante que me motiva es cambiar de rubro ya que anteriormente trabajaba como técnico en redes y mi meta es dar el salto a un empleo como desarrollador Back/Front o FullStack si es posible.
 
 
-# Link de redes
-- <p align="left">
+# Redes
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-guzman-4a2479244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-guzman-4a2479244/" height="30" width="40" /></a>
 </p>
 
