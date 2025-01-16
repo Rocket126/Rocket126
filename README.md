@@ -22,7 +22,7 @@ Seguir aprendiendo del rubro de desarrollo y experimentar con proyectos en java,
 
 # Redes
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-guzman-4a2479244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-guzman-4a2479244/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlos-guzman-4a2479244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-guzman-4a2479244/" height="30" width="40" /></a>
 </p>
 
 
