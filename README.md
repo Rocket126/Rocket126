@@ -7,7 +7,7 @@ Actualmente participo en un Bootcamp de FullStack Java en Talento Digital y en o
 # Tecnologias
 
 - Java - SQL - Javascript - Html - CSS - Boostrap
-- SpringBoot - JWT -Thymeleaf - JPA - REST 
+- SpringBoot - JWT -Thymeleaf - JPA - REST -JDBC
 - PostgreSQL
 - Postman
 - GitHub - Control de versiones
