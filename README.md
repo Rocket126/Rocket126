@@ -1,10 +1,7 @@
 <h1 align="center">Hola mi nombre es Carlos Guzmán</h1>
 <h3 align="center">Me encuentro cursando un Bootcamp FullStack de Java SpringBoot. Me encuentro titulado de Ejecución en informática, practicando constantemente lo visto en clases con proyectos.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-guzman-4a2479244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-guzman-4a2479244/" height="30" width="40" /></a>
-</p>
+
 
 # ¿Quien soy?
 
@@ -26,7 +23,9 @@ Seguir aprendiendo del rubro de desarrollo y experimentar con proyectos en java,
 
 
 # Link de redes
-- Linkedin : https://www.linkedin.com/in/carlos-guzman-4a2479244/
+- <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-guzman-4a2479244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-guzman-4a2479244/" height="30" width="40" /></a>
+</p>
 
 
 
